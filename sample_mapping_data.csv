@@ -1,0 +1,553 @@
+SampleID,Location,Country,Species,Source,Lat_N,Lon_E,IlluminaName,RunID
+HO_CY_Le_01,Cyrene,Singapore,Halophila ovalis,Leaf,1.258905,103.754918,AFI1240,MUX8041
+HO_CY_Le_02,Cyrene,Singapore,Halophila ovalis,Leaf,1.258905,103.754918,AFI1241,MUX8041
+HO_CY_Le_03,Cyrene,Singapore,Halophila ovalis,Leaf,1.258905,103.754918,AFI1242,MUX8041
+HO_CY_Le_04,Cyrene,Singapore,Halophila ovalis,Leaf,1.258905,103.754918,AFI1243,MUX8041
+HO_CY_Le_05,Cyrene,Singapore,Halophila ovalis,Leaf,1.258905,103.754918,AFI1244,MUX8041
+HO_CY_Le_06,Cyrene,Singapore,Halophila ovalis,Leaf,1.258905,103.754918,AFI1245,MUX8041
+HO_CY_Le_07,Cyrene,Singapore,Halophila ovalis,Leaf,1.258905,103.754918,AFI1246,MUX8041
+HO_CY_Le_08,Cyrene,Singapore,Halophila ovalis,Leaf,1.258905,103.754918,AFI1247,MUX8041
+HO_CY_Le_09,Cyrene,Singapore,Halophila ovalis,Leaf,1.258905,103.754918,AFI1248,MUX8041
+HO_CY_Le_10,Cyrene,Singapore,Halophila ovalis,Leaf,1.258905,103.754918,AFI1249,MUX8041
+HO_CY_Rh_01,Cyrene,Singapore,Halophila ovalis,Rhizome,1.258905,103.754918,AFI1250,MUX8041
+HO_CY_Rh_02,Cyrene,Singapore,Halophila ovalis,Rhizome,1.258905,103.754918,AFI1251,MUX8041
+HO_CY_Rh_03,Cyrene,Singapore,Halophila ovalis,Rhizome,1.258905,103.754918,AFI1252,MUX8041
+HO_CY_Rh_04,Cyrene,Singapore,Halophila ovalis,Rhizome,1.258905,103.754918,AFI1253,MUX8041
+HO_CY_Rh_05,Cyrene,Singapore,Halophila ovalis,Rhizome,1.258905,103.754918,AFI1254,MUX8041
+HO_CY_Rh_06,Cyrene,Singapore,Halophila ovalis,Rhizome,1.258905,103.754918,AFI1255,MUX8041
+HO_CY_Rh_07,Cyrene,Singapore,Halophila ovalis,Rhizome,1.258905,103.754918,AFI1256,MUX8041
+HO_CY_Rh_08,Cyrene,Singapore,Halophila ovalis,Rhizome,1.258905,103.754918,AFI1257,MUX8041
+HO_CY_Rh_09,Cyrene,Singapore,Halophila ovalis,Rhizome,1.258905,103.754918,AFI1258,MUX8041
+HO_CY_Rh_10,Cyrene,Singapore,Halophila ovalis,Rhizome,1.258905,103.754918,AFI1259,MUX8041
+HO_CY_Ro_01,Cyrene,Singapore,Halophila ovalis,Root,1.258905,103.754918,AFI1260,MUX8041
+HO_CY_Ro_02,Cyrene,Singapore,Halophila ovalis,Root,1.258905,103.754918,AFI1261,MUX8041
+HO_CY_Ro_03,Cyrene,Singapore,Halophila ovalis,Root,1.258905,103.754918,AFI1262,MUX8041
+HO_CY_Ro_04,Cyrene,Singapore,Halophila ovalis,Root,1.258905,103.754918,AFI1263,MUX8041
+HO_BLANK_01,Blank,Blank,Blank,Blank,1.258905,103.754918,AFI1264,MUX8041
+HO_CY_Ro_05,Cyrene,Singapore,Halophila ovalis,Root,1.258905,103.754918,AFI1265,MUX8041
+HO_CY_Ro_06,Cyrene,Singapore,Halophila ovalis,Root,1.258905,103.754918,AFI1266,MUX8041
+HO_CY_Ro_07,Cyrene,Singapore,Halophila ovalis,Root,1.258905,103.754918,AFI1267,MUX8041
+HO_CY_Ro_08,Cyrene,Singapore,Halophila ovalis,Root,1.258905,103.754918,AFI1268,MUX8041
+HO_CY_Ro_09,Cyrene,Singapore,Halophila ovalis,Root,1.258905,103.754918,AFI1269,MUX8041
+HO_CY_Ro_10,Cyrene,Singapore,Halophila ovalis,Root,1.258905,103.754918,AFI1270,MUX8041
+HO_CY_Soil_01,Cyrene,Singapore,Halophila ovalis,Soil,1.258905,103.754918,AFI1271,MUX8041
+HO_CY_Soil_02,Cyrene,Singapore,Halophila ovalis,Soil,1.258905,103.754918,AFI1272,MUX8041
+HO_CY_Soil_03,Cyrene,Singapore,Halophila ovalis,Soil,1.258905,103.754918,AFI1273,MUX8041
+HO_CY_Soil_04,Cyrene,Singapore,Halophila ovalis,Soil,1.258905,103.754918,AFI1274,MUX8041
+HO_CY_Soil_05,Cyrene,Singapore,Halophila ovalis,Soil,1.258905,103.754918,AFI1275,MUX8041
+HO_CY_Soil_06,Cyrene,Singapore,Halophila ovalis,Soil,1.258905,103.754918,AFI1276,MUX8041
+HO_CY_Soil_07,Cyrene,Singapore,Halophila ovalis,Soil,1.258905,103.754918,AFI1277,MUX8041
+HO_CY_Soil_08,Cyrene,Singapore,Halophila ovalis,Soil,1.258905,103.754918,AFI1278,MUX8041
+HO_CY_Soil_09,Cyrene,Singapore,Halophila ovalis,Soil,1.258905,103.754918,AFI1279,MUX8041
+HO_CY_Soil_10,Cyrene,Singapore,Halophila ovalis,Soil,1.258905,103.754918,AFI1280,MUX8041
+HO_Sent_Le_01,Sentosa,Singapore,Halophila ovalis,Leaf,1.258297,103.807229,AFI1281,MUX8041
+HO_Sent_Le_02,Sentosa,Singapore,Halophila ovalis,Leaf,1.258297,103.807229,AFI1282,MUX8041
+HO_Sent_Le_03,Sentosa,Singapore,Halophila ovalis,Leaf,1.258297,103.807229,AFI1283,MUX8041
+HO_Sent_Le_04,Sentosa,Singapore,Halophila ovalis,Leaf,1.258297,103.807229,AFI1284,MUX8041
+HO_Sent_Le_05,Sentosa,Singapore,Halophila ovalis,Leaf,1.258297,103.807229,AFI1285,MUX8041
+HO_Sent_Le_06,Sentosa,Singapore,Halophila ovalis,Leaf,1.258297,103.807229,AFI1286,MUX8041
+HO_Sent_Le_07,Sentosa,Singapore,Halophila ovalis,Leaf,1.258297,103.807229,AFI1287,MUX8041
+HO_Sent_Le_08,Sentosa,Singapore,Halophila ovalis,Leaf,1.258297,103.807229,AFI1288,MUX8041
+HO_Sent_Le_09,Sentosa,Singapore,Halophila ovalis,Leaf,1.258297,103.807229,AFI1289,MUX8041
+HO_Sent_Le_10,Sentosa,Singapore,Halophila ovalis,Leaf,1.258297,103.807229,AFI1290,MUX8041
+HO_Sent_Rh_01,Sentosa,Singapore,Halophila ovalis,Rhizome,1.258297,103.807229,AFI1291,MUX8041
+HO_Sent_Rh_02,Sentosa,Singapore,Halophila ovalis,Rhizome,1.258297,103.807229,AFI1292,MUX8041
+HO_Sent_Rh_03,Sentosa,Singapore,Halophila ovalis,Rhizome,1.258297,103.807229,AFI1293,MUX8041
+HO_Sent_Rh_04,Sentosa,Singapore,Halophila ovalis,Rhizome,1.258297,103.807229,AFI1294,MUX8041
+HO_Sent_Rh_05,Sentosa,Singapore,Halophila ovalis,Rhizome,1.258297,103.807229,AFI1295,MUX8041
+HO_BLANK_02,Blank,Blank,Blank,Blank,1.258297,103.807229,AFI1296,MUX8041
+HO_Sent_Rh_06,Sentosa,Singapore,Halophila ovalis,Rhizome,1.258297,103.807229,AFI1297,MUX8041
+HO_Sent_Rh_07,Sentosa,Singapore,Halophila ovalis,Rhizome,1.258297,103.807229,AFI1298,MUX8041
+HO_Sent_Rh_08,Sentosa,Singapore,Halophila ovalis,Rhizome,1.258297,103.807229,AFI1299,MUX8041
+HO_Sent_Rh_09,Sentosa,Singapore,Halophila ovalis,Rhizome,1.258297,103.807229,AFI1300,MUX8041
+HO_Sent_Rh_10,Sentosa,Singapore,Halophila ovalis,Rhizome,1.258297,103.807229,AFI1301,MUX8041
+HO_Sent_Ro_01,Sentosa,Singapore,Halophila ovalis,Root,1.258297,103.807229,AFI1302,MUX8041
+HO_Sent_Ro_02,Sentosa,Singapore,Halophila ovalis,Root,1.258297,103.807229,AFI1303,MUX8041
+HO_Sent_Ro_03,Sentosa,Singapore,Halophila ovalis,Root,1.258297,103.807229,AFI1304,MUX8041
+HO_Sent_Ro_04,Sentosa,Singapore,Halophila ovalis,Root,1.258297,103.807229,AFI1305,MUX8041
+HO_Sent_Ro_05,Sentosa,Singapore,Halophila ovalis,Root,1.258297,103.807229,AFI1306,MUX8041
+HO_Sent_Ro_06,Sentosa,Singapore,Halophila ovalis,Root,1.258297,103.807229,AFI1307,MUX8041
+HO_Sent_Ro_07,Sentosa,Singapore,Halophila ovalis,Root,1.258297,103.807229,AFI1308,MUX8041
+HO_Sent_Ro_08,Sentosa,Singapore,Halophila ovalis,Root,1.258297,103.807229,AFI1309,MUX8041
+HO_Sent_Ro_09,Sentosa,Singapore,Halophila ovalis,Root,1.258297,103.807229,AFI1310,MUX8041
+HO_Sent_Ro_10,Sentosa,Singapore,Halophila ovalis,Root,1.258297,103.807229,AFI1311,MUX8041
+HO_Sent_Soil_01,Sentosa,Singapore,Halophila ovalis,Soil,1.258297,103.807229,AFI1312,MUX8041
+HO_Sent_Soil_02,Sentosa,Singapore,Halophila ovalis,Soil,1.258297,103.807229,AFI1313,MUX8041
+HO_Sent_Soil_03,Sentosa,Singapore,Halophila ovalis,Soil,1.258297,103.807229,AFI1314,MUX8041
+HO_Sent_Soil_04,Sentosa,Singapore,Halophila ovalis,Soil,1.258297,103.807229,AFI1315,MUX8041
+HO_Sent_Soil_05,Sentosa,Singapore,Halophila ovalis,Soil,1.258297,103.807229,AFI1316,MUX8041
+HO_Sent_Soil_06,Sentosa,Singapore,Halophila ovalis,Soil,1.258297,103.807229,AFI1317,MUX8041
+HO_Sent_Soil_07,Sentosa,Singapore,Halophila ovalis,Soil,1.258297,103.807229,AFI1318,MUX8041
+HO_Sent_Soil_08,Sentosa,Singapore,Halophila ovalis,Soil,1.258297,103.807229,AFI1319,MUX8041
+HO_Sent_Soil_09,Sentosa,Singapore,Halophila ovalis,Soil,1.258297,103.807229,AFI1320,MUX8041
+HO_Sent_Soil_10,Sentosa,Singapore,Halophila ovalis,Soil,1.258297,103.807229,AFI1321,MUX8041
+HO_LK_Le_01,Langkawi,West Malaysia,Halophila ovalis,Leaf,6.457894,99.823622,AFI1322,MUX8041
+HO_LK_Le_02,Langkawi,West Malaysia,Halophila ovalis,Leaf,6.457894,99.823622,AFI1323,MUX8041
+HO_LK_Le_03,Langkawi,West Malaysia,Halophila ovalis,Leaf,6.457894,99.823622,AFI1324,MUX8041
+HO_LK_Le_04,Langkawi,West Malaysia,Halophila ovalis,Leaf,6.457894,99.823622,AFI1325,MUX8041
+HO_LK_Le_05,Langkawi,West Malaysia,Halophila ovalis,Leaf,6.457894,99.823622,AFI1326,MUX8041
+HO_LK_Le_06,Langkawi,West Malaysia,Halophila ovalis,Leaf,6.457894,99.823622,AFI1327,MUX8041
+HO_BLANK_03,Blank,Blank,Blank,Blank,6.457894,99.823622,AFI1328,MUX8041
+HO_LK_Le_07,Langkawi,West Malaysia,Halophila ovalis,Leaf,6.457894,99.823622,AFI1329,MUX8041
+HO_LK_Le_08,Langkawi,West Malaysia,Halophila ovalis,Leaf,6.457894,99.823622,AFI1330,MUX8041
+HO_LK_Le_09,Langkawi,West Malaysia,Halophila ovalis,Leaf,6.457894,99.823622,AFI1331,MUX8041
+HO_LK_Le_10,Langkawi,West Malaysia,Halophila ovalis,Leaf,6.457894,99.823622,AFI1332,MUX8041
+HO_LK_Rh_01,Langkawi,West Malaysia,Halophila ovalis,Rhizome,6.457894,99.823622,AFI1333,MUX8041
+HO_LK_Rh_02,Langkawi,West Malaysia,Halophila ovalis,Rhizome,6.457894,99.823622,AFI1334,MUX8041
+HO_LK_Rh_03,Langkawi,West Malaysia,Halophila ovalis,Rhizome,6.457894,99.823622,AFI1335,MUX8041
+HO_LK_Rh_04,Langkawi,West Malaysia,Halophila ovalis,Rhizome,6.457894,99.823622,AFI1336,MUX8041
+HO_LK_Rh_05,Langkawi,West Malaysia,Halophila ovalis,Rhizome,6.457894,99.823622,AFI1337,MUX8041
+HO_LK_Rh_06,Langkawi,West Malaysia,Halophila ovalis,Rhizome,6.457894,99.823622,AFI1338,MUX8041
+HO_LK_Rh_07,Langkawi,West Malaysia,Halophila ovalis,Rhizome,6.457894,99.823622,AFI1339,MUX8041
+HO_LK_Rh_08,Langkawi,West Malaysia,Halophila ovalis,Rhizome,6.457894,99.823622,AFI1340,MUX8041
+HO_LK_Rh_09,Langkawi,West Malaysia,Halophila ovalis,Rhizome,6.457894,99.823622,AFI1341,MUX8041
+HO_LK_Rh_10,Langkawi,West Malaysia,Halophila ovalis,Rhizome,6.457894,99.823622,AFI1342,MUX8041
+HO_LK_Ro_01,Langkawi,West Malaysia,Halophila ovalis,Root,6.457894,99.823622,AFI1343,MUX8041
+HO_LK_Ro_02,Langkawi,West Malaysia,Halophila ovalis,Root,6.457894,99.823622,AFI1344,MUX8041
+HO_LK_Ro_03,Langkawi,West Malaysia,Halophila ovalis,Root,6.457894,99.823622,AFI1345,MUX8041
+HO_LK_Ro_04,Langkawi,West Malaysia,Halophila ovalis,Root,6.457894,99.823622,AFI1346,MUX8041
+HO_LK_Ro_05,Langkawi,West Malaysia,Halophila ovalis,Root,6.457894,99.823622,AFI1347,MUX8041
+HO_LK_Ro_06,Langkawi,West Malaysia,Halophila ovalis,Root,6.457894,99.823622,AFI1348,MUX8041
+HO_LK_Ro_07,Langkawi,West Malaysia,Halophila ovalis,Root,6.457894,99.823622,AFI1349,MUX8041
+HO_LK_Ro_08,Langkawi,West Malaysia,Halophila ovalis,Root,6.457894,99.823622,AFI1350,MUX8041
+HO_LK_Ro_09,Langkawi,West Malaysia,Halophila ovalis,Root,6.457894,99.823622,AFI1351,MUX8041
+HO_LK_Ro_10,Langkawi,West Malaysia,Halophila ovalis,Root,6.457894,99.823622,AFI1352,MUX8041
+HO_LK_Soil_01,Langkawi,West Malaysia,Halophila ovalis,Soil,6.457894,99.823622,AFI1353,MUX8041
+HO_LK_Soil_02,Langkawi,West Malaysia,Halophila ovalis,Soil,6.457894,99.823622,AFI1354,MUX8041
+HO_LK_Soil_03,Langkawi,West Malaysia,Halophila ovalis,Soil,6.457894,99.823622,AFI1355,MUX8041
+HO_LK_Soil_04,Langkawi,West Malaysia,Halophila ovalis,Soil,6.457894,99.823622,AFI1356,MUX8041
+HO_LK_Soil_05,Langkawi,West Malaysia,Halophila ovalis,Soil,6.457894,99.823622,AFI1357,MUX8041
+HO_LK_Soil_06,Langkawi,West Malaysia,Halophila ovalis,Soil,6.457894,99.823622,AFI1358,MUX8041
+HO_LK_Soil_07,Langkawi,West Malaysia,Halophila ovalis,Soil,6.457894,99.823622,AFI1359,MUX8041
+HO_BLANK_04,Blank,Blank,Blank,Blank,6.457894,99.823622,AFI1360,MUX8041
+HO_LK_Soil_08,Langkawi,West Malaysia,Halophila ovalis,Soil,6.457894,99.823622,AFI1361,MUX8041
+HO_LK_Soil_09,Langkawi,West Malaysia,Halophila ovalis,Soil,6.457894,99.823622,AFI1362,MUX8041
+HO_LK_Soil_10,Langkawi,West Malaysia,Halophila ovalis,Soil,6.457894,99.823622,AFI1363,MUX8041
+HO_CJ_Le_01,Chek Jawa,Singapore,Halophila ovalis,Leaf,1.412728,103.991134,AFI1364,MUX8041
+HO_CJ_Le_02,Chek Jawa,Singapore,Halophila ovalis,Leaf,1.412728,103.991134,AFI1365,MUX8041
+HO_CJ_Le_03,Chek Jawa,Singapore,Halophila ovalis,Leaf,1.412728,103.991134,AFI1366,MUX8041
+HO_CJ_Le_04,Chek Jawa,Singapore,Halophila ovalis,Leaf,1.412728,103.991134,AFI1367,MUX8041
+HO_CJ_Le_05,Chek Jawa,Singapore,Halophila ovalis,Leaf,1.412728,103.991134,AFI1368,MUX8041
+HO_CJ_Le_06,Chek Jawa,Singapore,Halophila ovalis,Leaf,1.412728,103.991134,AFI1369,MUX8041
+HO_CJ_Le_07,Chek Jawa,Singapore,Halophila ovalis,Leaf,1.412728,103.991134,AFI1370,MUX8041
+HO_CJ_Le_08,Chek Jawa,Singapore,Halophila ovalis,Leaf,1.412728,103.991134,AFI1371,MUX8041
+HO_CJ_Le_09,Chek Jawa,Singapore,Halophila ovalis,Leaf,1.412728,103.991134,AFI1372,MUX8041
+HO_CJ_Le_10,Chek Jawa,Singapore,Halophila ovalis,Leaf,1.412728,103.991134,AFI1373,MUX8041
+HO_CJ_Rh_01,Chek Jawa,Singapore,Halophila ovalis,Rhizome,1.412728,103.991134,AFI1374,MUX8041
+HO_CJ_Rh_02,Chek Jawa,Singapore,Halophila ovalis,Rhizome,1.412728,103.991134,AFI1375,MUX8041
+HO_CJ_Rh_03,Chek Jawa,Singapore,Halophila ovalis,Rhizome,1.412728,103.991134,AFI1376,MUX8041
+HO_CJ_Rh_04,Chek Jawa,Singapore,Halophila ovalis,Rhizome,1.412728,103.991134,AFI1377,MUX8041
+HO_CJ_Rh_05,Chek Jawa,Singapore,Halophila ovalis,Rhizome,1.412728,103.991134,AFI1378,MUX8041
+HO_CJ_Rh_06,Chek Jawa,Singapore,Halophila ovalis,Rhizome,1.412728,103.991134,AFI1379,MUX8041
+HO_CJ_Rh_07,Chek Jawa,Singapore,Halophila ovalis,Rhizome,1.412728,103.991134,AFI1380,MUX8041
+HO_CJ_Rh_08,Chek Jawa,Singapore,Halophila ovalis,Rhizome,1.412728,103.991134,AFI1381,MUX8041
+HO_CJ_Rh_09,Chek Jawa,Singapore,Halophila ovalis,Rhizome,1.412728,103.991134,AFI1382,MUX8041
+HO_CJ_Rh_10,Chek Jawa,Singapore,Halophila ovalis,Rhizome,1.412728,103.991134,AFI1383,MUX8041
+HO_CJ_Ro_01,Chek Jawa,Singapore,Halophila ovalis,Root,1.412728,103.991134,AFI1384,MUX8041
+HO_CJ_Ro_02,Chek Jawa,Singapore,Halophila ovalis,Root,1.412728,103.991134,AFI1385,MUX8041
+HO_CJ_Ro_03,Chek Jawa,Singapore,Halophila ovalis,Root,1.412728,103.991134,AFI1386,MUX8041
+HO_CJ_Ro_04,Chek Jawa,Singapore,Halophila ovalis,Root,1.412728,103.991134,AFI1387,MUX8041
+HO_CJ_Ro_05,Chek Jawa,Singapore,Halophila ovalis,Root,1.412728,103.991134,AFI1388,MUX8041
+HO_CJ_Ro_06,Chek Jawa,Singapore,Halophila ovalis,Root,1.412728,103.991134,AFI1389,MUX8041
+HO_CJ_Ro_07,Chek Jawa,Singapore,Halophila ovalis,Root,1.412728,103.991134,AFI1390,MUX8041
+HO_CJ_Ro_08,Chek Jawa,Singapore,Halophila ovalis,Root,1.412728,103.991134,AFI1391,MUX8041
+HO_BLANK_05,Blank,Blank,Blank,Blank,1.412728,103.991134,AFI1392,MUX8041
+HO_CJ_Ro_09,Chek Jawa,Singapore,Halophila ovalis,Root,1.412728,103.991134,AFI1393,MUX8041
+HO_CJ_Ro_10,Chek Jawa,Singapore,Halophila ovalis,Root,1.412728,103.991134,AFI1394,MUX8041
+HO_CJ_Soil_01,Chek Jawa,Singapore,Halophila ovalis,Soil,1.412728,103.991134,AFI1395,MUX8041
+HO_CJ_Soil_02,Chek Jawa,Singapore,Halophila ovalis,Soil,1.412728,103.991134,AFI1396,MUX8041
+HO_CJ_Soil_03,Chek Jawa,Singapore,Halophila ovalis,Soil,1.412728,103.991134,AFI1397,MUX8041
+HO_CJ_Soil_04,Chek Jawa,Singapore,Halophila ovalis,Soil,1.412728,103.991134,AFI1398,MUX8041
+HO_CJ_Soil_05,Chek Jawa,Singapore,Halophila ovalis,Soil,1.412728,103.991134,AFI1399,MUX8041
+HO_CJ_Soil_06,Chek Jawa,Singapore,Halophila ovalis,Soil,1.412728,103.991134,AFI1400,MUX8041
+HO_CJ_Soil_07,Chek Jawa,Singapore,Halophila ovalis,Soil,1.412728,103.991134,AFI1401,MUX8041
+HO_CJ_Soil_08,Chek Jawa,Singapore,Halophila ovalis,Soil,1.412728,103.991134,AFI1402,MUX8041
+HO_CJ_Soil_09,Chek Jawa,Singapore,Halophila ovalis,Soil,1.412728,103.991134,AFI1403,MUX8041
+HO_CJ_Soil_10,Chek Jawa,Singapore,Halophila ovalis,Soil,1.412728,103.991134,AFI1404,MUX8041
+HO_MS_Le_01,Merambong Shoal,West Malaysia,Halophila ovalis,Leaf,1.331803,103.604591,AFI1405,MUX8041
+HO_MS_Le_02,Merambong Shoal,West Malaysia,Halophila ovalis,Leaf,1.331803,103.604591,AFI1406,MUX8041
+HO_MS_Le_03,Merambong Shoal,West Malaysia,Halophila ovalis,Leaf,1.331803,103.604591,AFI1407,MUX8041
+HO_MS_Le_04,Merambong Shoal,West Malaysia,Halophila ovalis,Leaf,1.331803,103.604591,AFI1408,MUX8041
+HO_MS_Le_05,Merambong Shoal,West Malaysia,Halophila ovalis,Leaf,1.331803,103.604591,AFI1409,MUX8041
+HO_MS_Le_06,Merambong Shoal,West Malaysia,Halophila ovalis,Leaf,1.331803,103.604591,AFI1410,MUX8041
+HO_MS_Le_07,Merambong Shoal,West Malaysia,Halophila ovalis,Leaf,1.331803,103.604591,AFI1411,MUX8041
+HO_MS_Le_08,Merambong Shoal,West Malaysia,Halophila ovalis,Leaf,1.331803,103.604591,AFI1412,MUX8041
+HO_MS_Le_09,Merambong Shoal,West Malaysia,Halophila ovalis,Leaf,1.331803,103.604591,AFI1413,MUX8041
+HO_MS_Le_10,Merambong Shoal,West Malaysia,Halophila ovalis,Leaf,1.331803,103.604591,AFI1414,MUX8041
+HO_MS_Rh_01,Merambong Shoal,West Malaysia,Halophila ovalis,Rhizome,1.331803,103.604591,AFI1415,MUX8041
+HO_MS_Rh_02,Merambong Shoal,West Malaysia,Halophila ovalis,Rhizome,1.331803,103.604591,AFI1416,MUX8041
+HO_MS_Rh_03,Merambong Shoal,West Malaysia,Halophila ovalis,Rhizome,1.331803,103.604591,AFI1417,MUX8041
+HO_MS_Rh_04,Merambong Shoal,West Malaysia,Halophila ovalis,Rhizome,1.331803,103.604591,AFI1418,MUX8041
+HO_MS_Rh_05,Merambong Shoal,West Malaysia,Halophila ovalis,Rhizome,1.331803,103.604591,AFI1419,MUX8041
+HO_MS_Rh_06,Merambong Shoal,West Malaysia,Halophila ovalis,Rhizome,1.331803,103.604591,AFI1420,MUX8041
+HO_MS_Rh_07,Merambong Shoal,West Malaysia,Halophila ovalis,Rhizome,1.331803,103.604591,AFI1421,MUX8041
+HO_MS_Rh_08,Merambong Shoal,West Malaysia,Halophila ovalis,Rhizome,1.331803,103.604591,AFI1422,MUX8041
+HO_MS_Rh_09,Merambong Shoal,West Malaysia,Halophila ovalis,Rhizome,1.331803,103.604591,AFI1423,MUX8041
+HO_BLANK_06,Blank,Blank,Blank,Blank,1.331803,103.604591,AFI1424,MUX8041
+HO_MS_Rh_10,Merambong Shoal,West Malaysia,Halophila ovalis,Rhizome,1.331803,103.604591,AFI1425,MUX8041
+HO_MS_Ro_01,Merambong Shoal,West Malaysia,Halophila ovalis,Root,1.331803,103.604591,AFI1426,MUX8041
+HO_MS_Ro_02,Merambong Shoal,West Malaysia,Halophila ovalis,Root,1.331803,103.604591,AFI1427,MUX8041
+HO_MS_Ro_03,Merambong Shoal,West Malaysia,Halophila ovalis,Root,1.331803,103.604591,AFI1428,MUX8041
+HO_MS_Ro_04,Merambong Shoal,West Malaysia,Halophila ovalis,Root,1.331803,103.604591,AFI1429,MUX8041
+HO_MS_Ro_05,Merambong Shoal,West Malaysia,Halophila ovalis,Root,1.331803,103.604591,AFI1430,MUX8041
+HO_MS_Ro_06,Merambong Shoal,West Malaysia,Halophila ovalis,Root,1.331803,103.604591,AFI1431,MUX8041
+HO_MS_Ro_07,Merambong Shoal,West Malaysia,Halophila ovalis,Root,1.331803,103.604591,AFI1432,MUX8041
+HO_MS_Ro_08,Merambong Shoal,West Malaysia,Halophila ovalis,Root,1.331803,103.604591,AFI1433,MUX8041
+HO_MS_Ro_09,Merambong Shoal,West Malaysia,Halophila ovalis,Root,1.331803,103.604591,AFI1434,MUX8041
+HO_MS_Ro_10,Merambong Shoal,West Malaysia,Halophila ovalis,Root,1.331803,103.604591,AFI1435,MUX8041
+HO_MS_Soil_01,Merambong Shoal,West Malaysia,Halophila ovalis,Soil,1.331803,103.604591,AFI1436,MUX8041
+HO_MS_Soil_02,Merambong Shoal,West Malaysia,Halophila ovalis,Soil,1.331803,103.604591,AFI1437,MUX8041
+HO_MS_Soil_03,Merambong Shoal,West Malaysia,Halophila ovalis,Soil,1.331803,103.604591,AFI1438,MUX8041
+HO_MS_Soil_04,Merambong Shoal,West Malaysia,Halophila ovalis,Soil,1.331803,103.604591,AFI1439,MUX8041
+HO_MS_Soil_05,Merambong Shoal,West Malaysia,Halophila ovalis,Soil,1.331803,103.604591,AFI1440,MUX8041
+HO_MS_Soil_06,Merambong Shoal,West Malaysia,Halophila ovalis,Soil,1.331803,103.604591,AFI1441,MUX8041
+HO_MS_Soil_07,Merambong Shoal,West Malaysia,Halophila ovalis,Soil,1.331803,103.604591,AFI1442,MUX8041
+HO_MS_Soil_08,Merambong Shoal,West Malaysia,Halophila ovalis,Soil,1.331803,103.604591,AFI1443,MUX8041
+HO_MS_Soil_09,Merambong Shoal,West Malaysia,Halophila ovalis,Soil,1.331803,103.604591,AFI1444,MUX8041
+HO_MS_Soil_10,Merambong Shoal,West Malaysia,Halophila ovalis,Soil,1.331803,103.604591,AFI1445,MUX8041
+HO_Sem_Le_01,Semakau,Singapore,Halophila ovalis,Leaf,1.208273,103.756254,AFI1446,MUX8041
+HO_Sem_Le_02,Semakau,Singapore,Halophila ovalis,Leaf,1.208273,103.756254,AFI1447,MUX8041
+HO_BLANK_07,Blank,Blank,Blank,Blank,1.208273,103.756254,AFI1448,MUX8041
+HO_Sem_Le_03,Semakau,Singapore,Halophila ovalis,Leaf,1.208273,103.756254,AFI1449,MUX8041
+HO_Sem_Le_04,Semakau,Singapore,Halophila ovalis,Leaf,1.208273,103.756254,AFI1450,MUX8041
+HO_Sem_Le_05,Semakau,Singapore,Halophila ovalis,Leaf,1.208273,103.756254,AFI1451,MUX8041
+HO_Sem_Le_06,Semakau,Singapore,Halophila ovalis,Leaf,1.208273,103.756254,AFI1452,MUX8041
+HO_Sem_Le_07,Semakau,Singapore,Halophila ovalis,Leaf,1.208273,103.756254,AFI1453,MUX8041
+HO_Sem_Le_08,Semakau,Singapore,Halophila ovalis,Leaf,1.208273,103.756254,AFI1454,MUX8041
+HO_Sem_Le_09,Semakau,Singapore,Halophila ovalis,Leaf,1.208273,103.756254,AFI1455,MUX8041
+HO_Sem_Le_10,Semakau,Singapore,Halophila ovalis,Leaf,1.208273,103.756254,AFI1456,MUX8041
+HO_Sem_Rh_01,Semakau,Singapore,Halophila ovalis,Rhizome,1.208273,103.756254,AFI1457,MUX8041
+HO_Sem_Rh_02,Semakau,Singapore,Halophila ovalis,Rhizome,1.208273,103.756254,AFI1458,MUX8041
+HO_Sem_Rh_03,Semakau,Singapore,Halophila ovalis,Rhizome,1.208273,103.756254,AFI1459,MUX8041
+HO_Sem_Rh_04,Semakau,Singapore,Halophila ovalis,Rhizome,1.208273,103.756254,AFI1460,MUX8041
+HO_Sem_Rh_05,Semakau,Singapore,Halophila ovalis,Rhizome,1.208273,103.756254,AFI1461,MUX8041
+HO_Sem_Rh_06,Semakau,Singapore,Halophila ovalis,Rhizome,1.208273,103.756254,AFI1462,MUX8041
+HO_Sem_Rh_07,Semakau,Singapore,Halophila ovalis,Rhizome,1.208273,103.756254,AFI1463,MUX8041
+HO_Sem_Rh_08,Semakau,Singapore,Halophila ovalis,Rhizome,1.208273,103.756254,AFI1464,MUX8041
+HO_Sem_Rh_09,Semakau,Singapore,Halophila ovalis,Rhizome,1.208273,103.756254,AFI1465,MUX8041
+HO_Sem_Rh_10,Semakau,Singapore,Halophila ovalis,Rhizome,1.208273,103.756254,AFI1466,MUX8041
+HO_Sem_Ro_01,Semakau,Singapore,Halophila ovalis,Root,1.208273,103.756254,AFI1467,MUX8041
+HO_Sem_Ro_02,Semakau,Singapore,Halophila ovalis,Root,1.208273,103.756254,AFI1468,MUX8041
+HO_Sem_Ro_03,Semakau,Singapore,Halophila ovalis,Root,1.208273,103.756254,AFI1469,MUX8041
+HO_Sem_Ro_04,Semakau,Singapore,Halophila ovalis,Root,1.208273,103.756254,AFI1470,MUX8041
+HO_Sem_Ro_05,Semakau,Singapore,Halophila ovalis,Root,1.208273,103.756254,AFI1471,MUX8041
+HO_Sem_Ro_06,Semakau,Singapore,Halophila ovalis,Root,1.208273,103.756254,AFI1472,MUX8041
+HO_Sem_Ro_07,Semakau,Singapore,Halophila ovalis,Root,1.208273,103.756254,AFI1473,MUX8041
+HO_Sem_Ro_08,Semakau,Singapore,Halophila ovalis,Root,1.208273,103.756254,AFI1474,MUX8041
+HO_Sem_Ro_09,Semakau,Singapore,Halophila ovalis,Root,1.208273,103.756254,AFI1475,MUX8041
+HO_Sem_Ro_10,Semakau,Singapore,Halophila ovalis,Root,1.208273,103.756254,AFI1476,MUX8041
+HO_SA_Sem_Soil_01,Semakau,Singapore,Halophila ovalis,Soil,1.208273,103.756254,AFI1477,MUX8041
+HO_SA_Sem_Soil_02,Semakau,Singapore,Halophila ovalis,Soil,1.208273,103.756254,AFI1478,MUX8041
+HO_SA_Sem_Soil_03,Semakau,Singapore,Halophila ovalis,Soil,1.208273,103.756254,AFI1479,MUX8041
+HO_SA_Sem_Soil_04,Semakau,Singapore,Halophila ovalis,Soil,1.208273,103.756254,AFI1480,MUX8041
+HO_SA_Sem_Soil_05,Semakau,Singapore,Halophila ovalis,Soil,1.208273,103.756254,AFI1481,MUX8041
+HO_SA_Sem_Soil_06,Semakau,Singapore,Halophila ovalis,Soil,1.208273,103.756254,AFI1482,MUX8041
+HO_SA_Sem_Soil_07,Semakau,Singapore,Halophila ovalis,Soil,1.208273,103.756254,AFI1483,MUX8041
+HO_SA_Sem_Soil_08,Semakau,Singapore,Halophila ovalis,Soil,1.208273,103.756254,AFI1484,MUX8041
+HO_SA_Sem_Soil_09,Semakau,Singapore,Halophila ovalis,Soil,1.208273,103.756254,AFI1485,MUX8041
+HO_SA_Sem_Soil_10,Semakau,Singapore,Halophila ovalis,Soil,1.208273,103.756254,AFI1486,MUX8041
+HO_Per_Le_01,Perhentian,East Malaysia,Halophila ovalis,Leaf,5.886142,102.741075,AFI1487,MUX8041
+HO_BLANK_08,Blank,Blank,Blank,Blank,5.886142,102.741075,AFI1488,MUX8041
+HO_Per_Le_02,Perhentian,East Malaysia,Halophila ovalis,Leaf,5.886142,102.741075,AFI1489,MUX8041
+HO_Per_Le_03,Perhentian,East Malaysia,Halophila ovalis,Leaf,5.886142,102.741075,AFI1490,MUX8041
+HO_Per_Le_04,Perhentian,East Malaysia,Halophila ovalis,Leaf,5.886142,102.741075,AFI1491,MUX8041
+HO_Per_Le_05,Perhentian,East Malaysia,Halophila ovalis,Leaf,5.886142,102.741075,AFI1492,MUX8041
+HO_Per_Le_06,Perhentian,East Malaysia,Halophila ovalis,Leaf,5.886142,102.741075,AFI1493,MUX8041
+HO_Per_Le_07,Perhentian,East Malaysia,Halophila ovalis,Leaf,5.886142,102.741075,AFI1494,MUX8041
+HO_Per_Le_08,Perhentian,East Malaysia,Halophila ovalis,Leaf,5.886142,102.741075,AFI1495,MUX8041
+HO_Per_Le_09,Perhentian,East Malaysia,Halophila ovalis,Leaf,5.886142,102.741075,AFI1496,MUX8041
+HO_Per_Le_10,Perhentian,East Malaysia,Halophila ovalis,Leaf,5.886142,102.741075,AFI1497,MUX8041
+HO_Per_Rh_01,Perhentian,East Malaysia,Halophila ovalis,Rhizome,5.886142,102.741075,AFI1498,MUX8041
+HO_Per_Rh_02,Perhentian,East Malaysia,Halophila ovalis,Rhizome,5.886142,102.741075,AFI1499,MUX8041
+HO_Per_Rh_03,Perhentian,East Malaysia,Halophila ovalis,Rhizome,5.886142,102.741075,AFI1500,MUX8041
+HO_Per_Rh_04,Perhentian,East Malaysia,Halophila ovalis,Rhizome,5.886142,102.741075,AFI1501,MUX8041
+HO_Per_Rh_05,Perhentian,East Malaysia,Halophila ovalis,Rhizome,5.886142,102.741075,AFI1502,MUX8041
+HO_Per_Rh_06,Perhentian,East Malaysia,Halophila ovalis,Rhizome,5.886142,102.741075,AFI1503,MUX8041
+HO_Per_Rh_07,Perhentian,East Malaysia,Halophila ovalis,Rhizome,5.886142,102.741075,AFI1504,MUX8041
+HO_Per_Rh_08,Perhentian,East Malaysia,Halophila ovalis,Rhizome,5.886142,102.741075,AFI1505,MUX8041
+HO_Per_Rh_09,Perhentian,East Malaysia,Halophila ovalis,Rhizome,5.886142,102.741075,AFI1506,MUX8041
+HO_Per_Rh_10,Perhentian,East Malaysia,Halophila ovalis,Rhizome,5.886142,102.741075,AFI1507,MUX8041
+HO_Per_Ro_01,Perhentian,East Malaysia,Halophila ovalis,Root,5.886142,102.741075,AFI1508,MUX8041
+HO_Per_Ro_02,Perhentian,East Malaysia,Halophila ovalis,Root,5.886142,102.741075,AFI1509,MUX8041
+HO_Per_Ro_03,Perhentian,East Malaysia,Halophila ovalis,Root,5.886142,102.741075,AFI1510,MUX8041
+HO_Per_Ro_04,Perhentian,East Malaysia,Halophila ovalis,Root,5.886142,102.741075,AFI1511,MUX8041
+HO_Per_Ro_05,Perhentian,East Malaysia,Halophila ovalis,Root,5.886142,102.741075,AFI1512,MUX8041
+HO_Per_Ro_06,Perhentian,East Malaysia,Halophila ovalis,Root,5.886142,102.741075,AFI1513,MUX8041
+HO_Per_Ro_07,Perhentian,East Malaysia,Halophila ovalis,Root,5.886142,102.741075,AFI1514,MUX8041
+HO_Per_Ro_08,Perhentian,East Malaysia,Halophila ovalis,Root,5.886142,102.741075,AFI1515,MUX8041
+HO_Per_Ro_09,Perhentian,East Malaysia,Halophila ovalis,Root,5.886142,102.741075,AFI1516,MUX8041
+HO_Per_Ro_10,Perhentian,East Malaysia,Halophila ovalis,Root,5.886142,102.741075,AFI1517,MUX8041
+HO_Per_Soil_01,Perhentian,East Malaysia,Halophila ovalis,Soil,5.886142,102.741075,AFI1518,MUX8041
+HO_Per_Soil_02,Perhentian,East Malaysia,Halophila ovalis,Soil,5.886142,102.741075,AFI1519,MUX8041
+HO_BLANK_09,Blank,Blank,Blank,Blank,5.886142,102.741075,AFI1520,MUX8041
+HO_Per_Soil_03,Perhentian,East Malaysia,Halophila ovalis,Soil,5.886142,102.741075,AFI1521,MUX8041
+HO_Per_Soil_04,Perhentian,East Malaysia,Halophila ovalis,Soil,5.886142,102.741075,AFI1522,MUX8041
+HO_Per_Soil_05,Perhentian,East Malaysia,Halophila ovalis,Soil,5.886142,102.741075,AFI1523,MUX8041
+HO_Per_Soil_06,Perhentian,East Malaysia,Halophila ovalis,Soil,5.886142,102.741075,AFI1524,MUX8041
+HO_Per_Soil_07,Perhentian,East Malaysia,Halophila ovalis,Soil,5.886142,102.741075,AFI1525,MUX8041
+HO_Per_Soil_08,Perhentian,East Malaysia,Halophila ovalis,Soil,5.886142,102.741075,AFI1526,MUX8041
+HO_Per_Soil_09,Perhentian,East Malaysia,Halophila ovalis,Soil,5.886142,102.741075,AFI1527,MUX8041
+HO_Per_Soil_10,Perhentian,East Malaysia,Halophila ovalis,Soil,5.886142,102.741075,AFI1528,MUX8041
+EA_CY_Le_01,Cyrene,Singapore,Enhalus acoroides,Leaf,1.258905,103.754918,AFI1529,MUX8046
+EA_CY_Le_02,Cyrene,Singapore,Enhalus acoroides,Leaf,1.258905,103.754918,AFI1530,MUX8046
+EA_CY_Le_03,Cyrene,Singapore,Enhalus acoroides,Leaf,1.258905,103.754918,AFI1531,MUX8046
+EA_CY_Le_04,Cyrene,Singapore,Enhalus acoroides,Leaf,1.258905,103.754918,AFI1532,MUX8046
+EA_CY_Le_05,Cyrene,Singapore,Enhalus acoroides,Leaf,1.258905,103.754918,AFI1533,MUX8046
+EA_CY_Le_06,Cyrene,Singapore,Enhalus acoroides,Leaf,1.258905,103.754918,AFI1534,MUX8046
+EA_CY_Le_07,Cyrene,Singapore,Enhalus acoroides,Leaf,1.258905,103.754918,AFI1535,MUX8046
+EA_CY_Le_08,Cyrene,Singapore,Enhalus acoroides,Leaf,1.258905,103.754918,AFI1536,MUX8046
+EA_CY_Le_09,Cyrene,Singapore,Enhalus acoroides,Leaf,1.258905,103.754918,AFI1537,MUX8046
+EA_CY_Le_10,Cyrene,Singapore,Enhalus acoroides,Leaf,1.258905,103.754918,AFI1538,MUX8046
+EA_CY_Rh_01,Cyrene,Singapore,Enhalus acoroides,Rhizome,1.258905,103.754918,AFI1539,MUX8046
+EA_CY_Rh_02,Cyrene,Singapore,Enhalus acoroides,Rhizome,1.258905,103.754918,AFI1540,MUX8046
+EA_CY_Rh_03,Cyrene,Singapore,Enhalus acoroides,Rhizome,1.258905,103.754918,AFI1541,MUX8046
+EA_CY_Rh_04,Cyrene,Singapore,Enhalus acoroides,Rhizome,1.258905,103.754918,AFI1542,MUX8046
+EA_CY_Rh_05,Cyrene,Singapore,Enhalus acoroides,Rhizome,1.258905,103.754918,AFI1543,MUX8046
+EA_CY_Rh_06,Cyrene,Singapore,Enhalus acoroides,Rhizome,1.258905,103.754918,AFI1544,MUX8046
+EA_CY_Rh_07,Cyrene,Singapore,Enhalus acoroides,Rhizome,1.258905,103.754918,AFI1545,MUX8046
+EA_CY_Rh_08,Cyrene,Singapore,Enhalus acoroides,Rhizome,1.258905,103.754918,AFI1546,MUX8046
+EA_CY_Rh_09,Cyrene,Singapore,Enhalus acoroides,Rhizome,1.258905,103.754918,AFI1547,MUX8046
+EA_CY_Rh_10,Cyrene,Singapore,Enhalus acoroides,Rhizome,1.258905,103.754918,AFI1548,MUX8046
+EA_CY_Ro_01,Cyrene,Singapore,Enhalus acoroides,Root,1.258905,103.754918,AFI1549,MUX8046
+EA_CY_Ro_02,Cyrene,Singapore,Enhalus acoroides,Root,1.258905,103.754918,AFI1550,MUX8046
+EA_CY_Ro_03,Cyrene,Singapore,Enhalus acoroides,Root,1.258905,103.754918,AFI1551,MUX8046
+EA_CY_Ro_04,Cyrene,Singapore,Enhalus acoroides,Root,1.258905,103.754918,AFI1552,MUX8046
+EA_BLANK_01,Blank,Blank,Blank,Blank,1.258905,103.754918,AFI1553,MUX8046
+EA_CY_Ro_05,Cyrene,Singapore,Enhalus acoroides,Root,1.258905,103.754918,AFI1554,MUX8046
+EA_CY_Ro_06,Cyrene,Singapore,Enhalus acoroides,Root,1.258905,103.754918,AFI1555,MUX8046
+EA_CY_Ro_07,Cyrene,Singapore,Enhalus acoroides,Root,1.258905,103.754918,AFI1556,MUX8046
+EA_CY_Ro_08,Cyrene,Singapore,Enhalus acoroides,Root,1.258905,103.754918,AFI1557,MUX8046
+EA_CY_Ro_09,Cyrene,Singapore,Enhalus acoroides,Root,1.258905,103.754918,AFI1558,MUX8046
+EA_CY_Ro_10,Cyrene,Singapore,Enhalus acoroides,Root,1.258905,103.754918,AFI1559,MUX8046
+EA_CY_Soil_01,Cyrene,Singapore,Enhalus acoroides,Soil,1.258905,103.754918,AFI1560,MUX8046
+EA_CY_Soil_02,Cyrene,Singapore,Enhalus acoroides,Soil,1.258905,103.754918,AFI1561,MUX8046
+EA_CY_Soil_03,Cyrene,Singapore,Enhalus acoroides,Soil,1.258905,103.754918,AFI1562,MUX8046
+EA_CY_Soil_04,Cyrene,Singapore,Enhalus acoroides,Soil,1.258905,103.754918,AFI1563,MUX8046
+EA_CY_Soil_05,Cyrene,Singapore,Enhalus acoroides,Soil,1.258905,103.754918,AFI1564,MUX8046
+EA_CY_Soil_06,Cyrene,Singapore,Enhalus acoroides,Soil,1.258905,103.754918,AFI1565,MUX8046
+EA_CY_Soil_07,Cyrene,Singapore,Enhalus acoroides,Soil,1.258905,103.754918,AFI1566,MUX8046
+EA_CY_Soil_08,Cyrene,Singapore,Enhalus acoroides,Soil,1.258905,103.754918,AFI1567,MUX8046
+EA_CY_Soil_09,Cyrene,Singapore,Enhalus acoroides,Soil,1.258905,103.754918,AFI1568,MUX8046
+EA_CY_Soil_10,Cyrene,Singapore,Enhalus acoroides,Soil,1.258905,103.754918,AFI1569,MUX8046
+EA_Sent_Le_01,Sentosa,Singapore,Enhalus acoroides,Leaf,1.258297,103.807229,AFI1570,MUX8046
+EA_Sent_Le_02,Sentosa,Singapore,Enhalus acoroides,Leaf,1.258297,103.807229,AFI1571,MUX8046
+EA_Sent_Le_03,Sentosa,Singapore,Enhalus acoroides,Leaf,1.258297,103.807229,AFI1572,MUX8046
+EA_Sent_Le_04,Sentosa,Singapore,Enhalus acoroides,Leaf,1.258297,103.807229,AFI1573,MUX8046
+EA_Sent_Le_05,Sentosa,Singapore,Enhalus acoroides,Leaf,1.258297,103.807229,AFI1574,MUX8046
+EA_Sent_Le_06,Sentosa,Singapore,Enhalus acoroides,Leaf,1.258297,103.807229,AFI1575,MUX8046
+EA_Sent_Le_07,Sentosa,Singapore,Enhalus acoroides,Leaf,1.258297,103.807229,AFI1576,MUX8046
+EA_Sent_Le_08,Sentosa,Singapore,Enhalus acoroides,Leaf,1.258297,103.807229,AFI1577,MUX8046
+EA_Sent_Le_09,Sentosa,Singapore,Enhalus acoroides,Leaf,1.258297,103.807229,AFI1578,MUX8046
+EA_Sent_Le_10,Sentosa,Singapore,Enhalus acoroides,Leaf,1.258297,103.807229,AFI1579,MUX8046
+EA_Sent_Rh_01,Sentosa,Singapore,Enhalus acoroides,Rhizome,1.258297,103.807229,AFI1580,MUX8046
+EA_Sent_Rh_02,Sentosa,Singapore,Enhalus acoroides,Rhizome,1.258297,103.807229,AFI1581,MUX8046
+EA_Sent_Rh_03,Sentosa,Singapore,Enhalus acoroides,Rhizome,1.258297,103.807229,AFI1582,MUX8046
+EA_Sent_Rh_04,Sentosa,Singapore,Enhalus acoroides,Rhizome,1.258297,103.807229,AFI1583,MUX8046
+EA_Sent_Rh_05,Sentosa,Singapore,Enhalus acoroides,Rhizome,1.258297,103.807229,AFI1584,MUX8046
+EA_BLANK_02,Blank,Blank,Blank,Blank,1.258297,103.807229,AFI1585,MUX8046
+EA_Sent_Rh_06,Sentosa,Singapore,Enhalus acoroides,Rhizome,1.258297,103.807229,AFI1586,MUX8046
+EA_Sent_Rh_07,Sentosa,Singapore,Enhalus acoroides,Rhizome,1.258297,103.807229,AFI1587,MUX8046
+EA_Sent_Rh_08,Sentosa,Singapore,Enhalus acoroides,Rhizome,1.258297,103.807229,AFI1588,MUX8046
+EA_Sent_Rh_09,Sentosa,Singapore,Enhalus acoroides,Rhizome,1.258297,103.807229,AFI1589,MUX8046
+EA_Sent_Rh_10,Sentosa,Singapore,Enhalus acoroides,Rhizome,1.258297,103.807229,AFI1590,MUX8046
+EA_Sent_Ro_01,Sentosa,Singapore,Enhalus acoroides,Root,1.258297,103.807229,AFI1591,MUX8046
+EA_Sent_Ro_02,Sentosa,Singapore,Enhalus acoroides,Root,1.258297,103.807229,AFI1592,MUX8046
+EA_Sent_Ro_03,Sentosa,Singapore,Enhalus acoroides,Root,1.258297,103.807229,AFI1593,MUX8046
+EA_Sent_Ro_04,Sentosa,Singapore,Enhalus acoroides,Root,1.258297,103.807229,AFI1594,MUX8046
+EA_Sent_Ro_05,Sentosa,Singapore,Enhalus acoroides,Root,1.258297,103.807229,AFI1595,MUX8046
+EA_Sent_Ro_06,Sentosa,Singapore,Enhalus acoroides,Root,1.258297,103.807229,AFI1596,MUX8046
+EA_Sent_Ro_07,Sentosa,Singapore,Enhalus acoroides,Root,1.258297,103.807229,AFI1597,MUX8046
+EA_Sent_Ro_08,Sentosa,Singapore,Enhalus acoroides,Root,1.258297,103.807229,AFI1598,MUX8046
+EA_Sent_Ro_09,Sentosa,Singapore,Enhalus acoroides,Root,1.258297,103.807229,AFI1599,MUX8046
+EA_Sent_Ro_10,Sentosa,Singapore,Enhalus acoroides,Root,1.258297,103.807229,AFI1600,MUX8046
+EA_Sent_Soil_01,Sentosa,Singapore,Enhalus acoroides,Soil,1.258297,103.807229,AFI1601,MUX8046
+EA_Sent_Soil_02,Sentosa,Singapore,Enhalus acoroides,Soil,1.258297,103.807229,AFI1602,MUX8046
+EA_Sent_Soil_03,Sentosa,Singapore,Enhalus acoroides,Soil,1.258297,103.807229,AFI1603,MUX8046
+EA_Sent_Soil_04,Sentosa,Singapore,Enhalus acoroides,Soil,1.258297,103.807229,AFI1604,MUX8046
+EA_Sent_Soil_05,Sentosa,Singapore,Enhalus acoroides,Soil,1.258297,103.807229,AFI1605,MUX8046
+EA_Sent_Soil_06,Sentosa,Singapore,Enhalus acoroides,Soil,1.258297,103.807229,AFI1606,MUX8046
+EA_Sent_Soil_07,Sentosa,Singapore,Enhalus acoroides,Soil,1.258297,103.807229,AFI1607,MUX8046
+EA_Sent_Soil_08,Sentosa,Singapore,Enhalus acoroides,Soil,1.258297,103.807229,AFI1608,MUX8046
+EA_Sent_Soil_09,Sentosa,Singapore,Enhalus acoroides,Soil,1.258297,103.807229,AFI1609,MUX8046
+EA_Sent_Soil_10,Sentosa,Singapore,Enhalus acoroides,Soil,1.258297,103.807229,AFI1610,MUX8046
+EA_PD_Le_01,Port Dickson,West Malaysia,Enhalus acoroides,Leaf,2.408228,101.85873,AFI1611,MUX8046
+EA_PD_Le_02,Port Dickson,West Malaysia,Enhalus acoroides,Leaf,2.408228,101.85873,AFI1612,MUX8046
+EA_PD_Le_03,Port Dickson,West Malaysia,Enhalus acoroides,Leaf,2.408228,101.85873,AFI1613,MUX8046
+EA_PD_Le_04,Port Dickson,West Malaysia,Enhalus acoroides,Leaf,2.408228,101.85873,AFI1614,MUX8046
+EA_PD_Le_05,Port Dickson,West Malaysia,Enhalus acoroides,Leaf,2.408228,101.85873,AFI1615,MUX8046
+EA_PD_Le_06,Port Dickson,West Malaysia,Enhalus acoroides,Leaf,2.408228,101.85873,AFI1616,MUX8046
+EA_BLANK_03,Port Dickson,Blank,Blank,Blank,2.408228,101.85873,AFI1617,MUX8046
+EA_PD_Le_07,Port Dickson,West Malaysia,Enhalus acoroides,Leaf,2.408228,101.85873,AFI1618,MUX8046
+EA_PD_Le_08,Port Dickson,West Malaysia,Enhalus acoroides,Leaf,2.408228,101.85873,AFI1619,MUX8046
+EA_PD_Le_09,Port Dickson,West Malaysia,Enhalus acoroides,Leaf,2.408228,101.85873,AFI1620,MUX8046
+EA_PD_Le_10,Port Dickson,West Malaysia,Enhalus acoroides,Leaf,2.408228,101.85873,AFI1621,MUX8046
+EA_PD_Rh_01,Port Dickson,West Malaysia,Enhalus acoroides,Rhizome,2.408228,101.85873,AFI1622,MUX8046
+EA_PD_Rh_02,Port Dickson,West Malaysia,Enhalus acoroides,Rhizome,2.408228,101.85873,AFI1623,MUX8046
+EA_PD_Rh_03,Port Dickson,West Malaysia,Enhalus acoroides,Rhizome,2.408228,101.85873,AFI1624,MUX8046
+EA_PD_Rh_04,Port Dickson,West Malaysia,Enhalus acoroides,Rhizome,2.408228,101.85873,AFI1625,MUX8046
+EA_PD_Rh_05,Port Dickson,West Malaysia,Enhalus acoroides,Rhizome,2.408228,101.85873,AFI1626,MUX8046
+EA_PD_Rh_06,Port Dickson,West Malaysia,Enhalus acoroides,Rhizome,2.408228,101.85873,AFI1627,MUX8046
+EA_PD_Rh_07,Port Dickson,West Malaysia,Enhalus acoroides,Rhizome,2.408228,101.85873,AFI1628,MUX8046
+EA_PD_Rh_08,Port Dickson,West Malaysia,Enhalus acoroides,Rhizome,2.408228,101.85873,AFI1629,MUX8046
+EA_PD_Rh_09,Port Dickson,West Malaysia,Enhalus acoroides,Rhizome,2.408228,101.85873,AFI1630,MUX8046
+EA_PD_Rh_10,Port Dickson,West Malaysia,Enhalus acoroides,Rhizome,2.408228,101.85873,AFI1631,MUX8046
+EA_PD_Ro_01,Port Dickson,West Malaysia,Enhalus acoroides,Root,2.408228,101.85873,AFI1632,MUX8046
+EA_PD_Ro_02,Port Dickson,West Malaysia,Enhalus acoroides,Root,2.408228,101.85873,AFI1633,MUX8046
+EA_PD_Ro_03,Port Dickson,West Malaysia,Enhalus acoroides,Root,2.408228,101.85873,AFI1634,MUX8046
+EA_PD_Ro_04,Port Dickson,West Malaysia,Enhalus acoroides,Root,2.408228,101.85873,AFI1635,MUX8046
+EA_PD_Ro_05,Port Dickson,West Malaysia,Enhalus acoroides,Root,2.408228,101.85873,AFI1636,MUX8046
+EA_PD_Ro_06,Port Dickson,West Malaysia,Enhalus acoroides,Root,2.408228,101.85873,AFI1637,MUX8046
+EA_PD_Ro_07,Port Dickson,West Malaysia,Enhalus acoroides,Root,2.408228,101.85873,AFI1638,MUX8046
+EA_PD_Ro_08,Port Dickson,West Malaysia,Enhalus acoroides,Root,2.408228,101.85873,AFI1639,MUX8046
+EA_PD_Ro_09,Port Dickson,West Malaysia,Enhalus acoroides,Root,2.408228,101.85873,AFI1640,MUX8046
+EA_PD_Ro_10,Port Dickson,West Malaysia,Enhalus acoroides,Root,2.408228,101.85873,AFI1641,MUX8046
+EA_PD_Soil_01,Port Dickson,West Malaysia,Enhalus acoroides,Soil,2.408228,101.85873,AFI1642,MUX8046
+EA_PD_Soil_02,Port Dickson,West Malaysia,Enhalus acoroides,Soil,2.408228,101.85873,AFI1643,MUX8046
+EA_PD_Soil_03,Port Dickson,West Malaysia,Enhalus acoroides,Soil,2.408228,101.85873,AFI1644,MUX8046
+EA_PD_Soil_04,Port Dickson,West Malaysia,Enhalus acoroides,Soil,2.408228,101.85873,AFI1645,MUX8046
+EA_PD_Soil_05,Port Dickson,West Malaysia,Enhalus acoroides,Soil,2.408228,101.85873,AFI1646,MUX8046
+EA_PD_Soil_06,Port Dickson,West Malaysia,Enhalus acoroides,Soil,2.408228,101.85873,AFI1647,MUX8046
+EA_PD_Soil_07,Port Dickson,West Malaysia,Enhalus acoroides,Soil,2.408228,101.85873,AFI1648,MUX8046
+EA_BLANK_04,Port Dickson,Blank,Blank,Blank,2.408228,101.85873,AFI1649,MUX8046
+EA_PD_Soil_08,Port Dickson,West Malaysia,Enhalus acoroides,Soil,2.408228,101.85873,AFI1650,MUX8046
+EA_PD_Soil_09,Port Dickson,West Malaysia,Enhalus acoroides,Soil,2.408228,101.85873,AFI1651,MUX8046
+EA_PD_Soil_10,Port Dickson,West Malaysia,Enhalus acoroides,Soil,2.408228,101.85873,AFI1652,MUX8046
+EA_MS_Le_01,Merambong Shoal,West Malaysia,Enhalus acoroides,Leaf,2.408228,101.85873,AFI1653,MUX8046
+EA_MS_Le_02,Merambong Shoal,West Malaysia,Enhalus acoroides,Leaf,1.331803,103.604591,AFI1654,MUX8046
+EA_MS_Le_03,Merambong Shoal,West Malaysia,Enhalus acoroides,Leaf,1.331803,103.604591,AFI1655,MUX8046
+EA_MS_Le_04,Merambong Shoal,West Malaysia,Enhalus acoroides,Leaf,1.331803,103.604591,AFI1656,MUX8046
+EA_MS_Le_05,Merambong Shoal,West Malaysia,Enhalus acoroides,Leaf,1.331803,103.604591,AFI1657,MUX8046
+EA_MS_Le_06,Merambong Shoal,West Malaysia,Enhalus acoroides,Leaf,1.331803,103.604591,AFI1658,MUX8046
+EA_MS_Le_07,Merambong Shoal,West Malaysia,Enhalus acoroides,Leaf,1.331803,103.604591,AFI1659,MUX8046
+EA_MS_Le_08,Merambong Shoal,West Malaysia,Enhalus acoroides,Leaf,1.331803,103.604591,AFI1660,MUX8046
+EA_MS_Le_09,Merambong Shoal,West Malaysia,Enhalus acoroides,Leaf,1.331803,103.604591,AFI1661,MUX8046
+EA_MS_Le_10,Merambong Shoal,West Malaysia,Enhalus acoroides,Leaf,1.331803,103.604591,AFI1662,MUX8046
+EA_MS_Rh_01,Merambong Shoal,West Malaysia,Enhalus acoroides,Rhizome,1.331803,103.604591,AFI1663,MUX8046
+EA_MS_Rh_02,Merambong Shoal,West Malaysia,Enhalus acoroides,Rhizome,1.331803,103.604591,AFI1664,MUX8046
+EA_MS_Rh_03,Merambong Shoal,West Malaysia,Enhalus acoroides,Rhizome,1.331803,103.604591,AFI1665,MUX8046
+EA_MS_Rh_04,Merambong Shoal,West Malaysia,Enhalus acoroides,Rhizome,1.331803,103.604591,AFI1666,MUX8046
+EA_MS_Rh_05,Merambong Shoal,West Malaysia,Enhalus acoroides,Rhizome,1.331803,103.604591,AFI1667,MUX8046
+EA_MS_Rh_06,Merambong Shoal,West Malaysia,Enhalus acoroides,Rhizome,1.331803,103.604591,AFI1668,MUX8046
+EA_MS_Rh_07,Merambong Shoal,West Malaysia,Enhalus acoroides,Rhizome,1.331803,103.604591,AFI1669,MUX8046
+EA_MS_Rh_08,Merambong Shoal,West Malaysia,Enhalus acoroides,Rhizome,1.331803,103.604591,AFI1670,MUX8046
+EA_MS_Rh_09,Merambong Shoal,West Malaysia,Enhalus acoroides,Rhizome,1.331803,103.604591,AFI1671,MUX8046
+EA_MS_Rh_10,Merambong Shoal,West Malaysia,Enhalus acoroides,Rhizome,1.331803,103.604591,AFI1672,MUX8046
+EA_MS_Ro_01,Merambong Shoal,West Malaysia,Enhalus acoroides,Root,1.331803,103.604591,AFI1673,MUX8046
+EA_MS_Ro_02,Merambong Shoal,West Malaysia,Enhalus acoroides,Root,1.331803,103.604591,AFI1674,MUX8046
+EA_MS_Ro_03,Merambong Shoal,West Malaysia,Enhalus acoroides,Root,1.331803,103.604591,AFI1675,MUX8046
+EA_MS_Ro_04,Merambong Shoal,West Malaysia,Enhalus acoroides,Root,1.331803,103.604591,AFI1676,MUX8046
+EA_MS_Ro_05,Merambong Shoal,West Malaysia,Enhalus acoroides,Root,1.331803,103.604591,AFI1677,MUX8046
+EA_MS_Ro_06,Merambong Shoal,West Malaysia,Enhalus acoroides,Root,1.331803,103.604591,AFI1678,MUX8046
+EA_MS_Ro_07,Merambong Shoal,West Malaysia,Enhalus acoroides,Root,1.331803,103.604591,AFI1679,MUX8046
+EA_MS_Ro_08,Merambong Shoal,West Malaysia,Enhalus acoroides,Root,1.331803,103.604591,AFI1680,MUX8046
+EA_BLANK_05,Blank,Blank,Blank,Blank,1.331803,103.604591,AFI1681,MUX8046
+EA_MS_Ro_09,Merambong Shoal,West Malaysia,Enhalus acoroides,Root,1.331803,103.604591,AFI1682,MUX8046
+EA_MS_Ro_10,Merambong Shoal,West Malaysia,Enhalus acoroides,Root,1.331803,103.604591,AFI1683,MUX8046
+EA_MS_Soil_01,Merambong Shoal,West Malaysia,Enhalus acoroides,Soil,1.331803,103.604591,AFI1684,MUX8046
+EA_MS_Soil_02,Merambong Shoal,West Malaysia,Enhalus acoroides,Soil,1.331803,103.604591,AFI1685,MUX8046
+EA_MS_Soil_03,Merambong Shoal,West Malaysia,Enhalus acoroides,Soil,1.331803,103.604591,AFI1686,MUX8046
+EA_MS_Soil_04,Merambong Shoal,West Malaysia,Enhalus acoroides,Soil,1.331803,103.604591,AFI1687,MUX8046
+EA_MS_Soil_05,Merambong Shoal,West Malaysia,Enhalus acoroides,Soil,1.331803,103.604591,AFI1688,MUX8046
+EA_MS_Soil_06,Merambong Shoal,West Malaysia,Enhalus acoroides,Soil,1.331803,103.604591,AFI1689,MUX8046
+EA_MS_Soil_07,Merambong Shoal,West Malaysia,Enhalus acoroides,Soil,1.331803,103.604591,AFI1690,MUX8046
+EA_MS_Soil_08,Merambong Shoal,West Malaysia,Enhalus acoroides,Soil,1.331803,103.604591,AFI1691,MUX8046
+EA_MS_Soil_09,Merambong Shoal,West Malaysia,Enhalus acoroides,Soil,1.331803,103.604591,AFI1692,MUX8046
+EA_MS_Soil_10,Merambong Shoal,West Malaysia,Enhalus acoroides,Soil,1.331803,103.604591,AFI1693,MUX8046
+EA_Sem_Le_01,Semakau,Singapore,Enhalus acoroides,Leaf,1.208273,103.756254,AFI1694,MUX8046
+EA_Sem_Le_02,Semakau,Singapore,Enhalus acoroides,Leaf,1.208273,103.756254,AFI1695,MUX8046
+EA_Sem_Le_03,Semakau,Singapore,Enhalus acoroides,Leaf,1.208273,103.756254,AFI1696,MUX8046
+EA_Sem_Le_04,Semakau,Singapore,Enhalus acoroides,Leaf,1.208273,103.756254,AFI1697,MUX8046
+EA_Sem_Le_05,Semakau,Singapore,Enhalus acoroides,Leaf,1.208273,103.756254,AFI1698,MUX8046
+EA_Sem_Le_06,Semakau,Singapore,Enhalus acoroides,Leaf,1.208273,103.756254,AFI1699,MUX8046
+EA_Sem_Le_07,Semakau,Singapore,Enhalus acoroides,Leaf,1.208273,103.756254,AFI1700,MUX8046
+EA_Sem_Le_08,Semakau,Singapore,Enhalus acoroides,Leaf,1.208273,103.756254,AFI1701,MUX8046
+EA_Sem_Le_09,Semakau,Singapore,Enhalus acoroides,Leaf,1.208273,103.756254,AFI1702,MUX8046
+EA_Sem_Le_10,Semakau,Singapore,Enhalus acoroides,Leaf,1.208273,103.756254,AFI1703,MUX8046
+EA_Sem_Rh_01,Semakau,Singapore,Enhalus acoroides,Rhizome,1.208273,103.756254,AFI1704,MUX8046
+EA_Sem_Rh_02,Semakau,Singapore,Enhalus acoroides,Rhizome,1.208273,103.756254,AFI1705,MUX8046
+EA_Sem_Rh_03,Semakau,Singapore,Enhalus acoroides,Rhizome,1.208273,103.756254,AFI1706,MUX8046
+EA_Sem_Rh_04,Semakau,Singapore,Enhalus acoroides,Rhizome,1.208273,103.756254,AFI1707,MUX8046
+EA_Sem_Rh_05,Semakau,Singapore,Enhalus acoroides,Rhizome,1.208273,103.756254,AFI1708,MUX8046
+EA_Sem_Rh_06,Semakau,Singapore,Enhalus acoroides,Rhizome,1.208273,103.756254,AFI1709,MUX8046
+EA_Sem_Rh_07,Semakau,Singapore,Enhalus acoroides,Rhizome,1.208273,103.756254,AFI1710,MUX8046
+EA_Sem_Rh_08,Semakau,Singapore,Enhalus acoroides,Rhizome,1.208273,103.756254,AFI1711,MUX8046
+EA_Sem_Rh_09,Semakau,Singapore,Enhalus acoroides,Rhizome,1.208273,103.756254,AFI1712,MUX8046
+EA_BLANK_06,Blank,Blank,Blank,Blank,1.208273,103.756254,AFI1713,MUX8046
+EA_Sem_Rh_10,Semakau,Singapore,Enhalus acoroides,Rhizome,1.208273,103.756254,AFI1714,MUX8046
+EA_Sem_Ro_01,Semakau,Singapore,Enhalus acoroides,Root,1.208273,103.756254,AFI1715,MUX8046
+EA_Sem_Ro_02,Semakau,Singapore,Enhalus acoroides,Root,1.208273,103.756254,AFI1716,MUX8046
+EA_Sem_Ro_03,Semakau,Singapore,Enhalus acoroides,Root,1.208273,103.756254,AFI1717,MUX8046
+EA_Sem_Ro_04,Semakau,Singapore,Enhalus acoroides,Root,1.208273,103.756254,AFI1718,MUX8046
+EA_Sem_Ro_05,Semakau,Singapore,Enhalus acoroides,Root,1.208273,103.756254,AFI1719,MUX8046
+EA_Sem_Ro_06,Semakau,Singapore,Enhalus acoroides,Root,1.208273,103.756254,AFI1720,MUX8046
+EA_Sem_Ro_07,Semakau,Singapore,Enhalus acoroides,Root,1.208273,103.756254,AFI1721,MUX8046
+EA_Sem_Ro_08,Semakau,Singapore,Enhalus acoroides,Root,1.208273,103.756254,AFI1722,MUX8046
+EA_Sem_Ro_09,Semakau,Singapore,Enhalus acoroides,Root,1.208273,103.756254,AFI1723,MUX8046
+EA_Sem_Ro_10,Semakau,Singapore,Enhalus acoroides,Root,1.208273,103.756254,AFI1724,MUX8046
+EA_Sem_Soil_01,Semakau,Singapore,Enhalus acoroides,Soil,1.208273,103.756254,AFI1725,MUX8046
+EA_Sem_Soil_02,Semakau,Singapore,Enhalus acoroides,Soil,1.208273,103.756254,AFI1726,MUX8046
+EA_Sem_Soil_03,Semakau,Singapore,Enhalus acoroides,Soil,1.208273,103.756254,AFI1727,MUX8046
+EA_Sem_Soil_04,Semakau,Singapore,Enhalus acoroides,Soil,1.208273,103.756254,AFI1728,MUX8046
+EA_Sem_Soil_05,Semakau,Singapore,Enhalus acoroides,Soil,1.208273,103.756254,AFI1729,MUX8046
+EA_Sem_Soil_06,Semakau,Singapore,Enhalus acoroides,Soil,1.208273,103.756254,AFI1730,MUX8046
+EA_Sem_Soil_07,Semakau,Singapore,Enhalus acoroides,Soil,1.208273,103.756254,AFI1731,MUX8046
+EA_Sem_Soil_08,Semakau,Singapore,Enhalus acoroides,Soil,1.208273,103.756254,AFI1732,MUX8046
+EA_Sem_Soil_09,Semakau,Singapore,Enhalus acoroides,Soil,1.208273,103.756254,AFI1733,MUX8046
+EA_Sem_Soil_10,Semakau,Singapore,Enhalus acoroides,Soil,1.208273,103.756254,AFI1734,MUX8046
+EA_Per_Le_01,Perhentian,East Malaysia,Enhalus acoroides,Leaf,5.886142,102.741075,AFI1735,MUX8046
+EA_Per_Le_02,Perhentian,East Malaysia,Enhalus acoroides,Leaf,5.886142,102.741075,AFI1736,MUX8046
+EA_Per_Le_03,Perhentian,East Malaysia,Blank,Blank,5.886142,102.741075,AFI1737,MUX8046
+EA_Per_Le_04,Perhentian,East Malaysia,Enhalus acoroides,Leaf,5.886142,102.741075,AFI1738,MUX8046
+EA_Per_Le_05,Perhentian,East Malaysia,Enhalus acoroides,Leaf,5.886142,102.741075,AFI1739,MUX8046
+EA_Per_Le_06,Perhentian,East Malaysia,Enhalus acoroides,Leaf,5.886142,102.741075,AFI1740,MUX8046
+EA_Per_Le_07,Perhentian,East Malaysia,Enhalus acoroides,Leaf,5.886142,102.741075,AFI1741,MUX8046
+EA_Per_Le_08,Perhentian,East Malaysia,Enhalus acoroides,Leaf,5.886142,102.741075,AFI1742,MUX8046
+EA_Per_Le_09,Perhentian,East Malaysia,Enhalus acoroides,Leaf,5.886142,102.741075,AFI1743,MUX8046
+EA_Per_Le_10,Perhentian,East Malaysia,Enhalus acoroides,Leaf,5.886142,102.741075,AFI1744,MUX8046
+EA_BLANK_07,Blank,Blank,Blank,Blank,5.886142,102.741075,AFI1745,MUX8046
+EA_Per_Rh_01,Perhentian,East Malaysia,Enhalus acoroides,Rhizome,5.886142,102.741075,AFI1746,MUX8046
+EA_Per_Rh_02,Perhentian,East Malaysia,Enhalus acoroides,Rhizome,5.886142,102.741075,AFI1747,MUX8046
+EA_Per_Rh_03,Perhentian,East Malaysia,Enhalus acoroides,Rhizome,5.886142,102.741075,AFI1748,MUX8046
+EA_Per_Rh_04,Perhentian,East Malaysia,Enhalus acoroides,Rhizome,5.886142,102.741075,AFI1749,MUX8046
+EA_Per_Rh_05,Perhentian,East Malaysia,Enhalus acoroides,Rhizome,5.886142,102.741075,AFI1750,MUX8046
+EA_Per_Rh_06,Perhentian,East Malaysia,Enhalus acoroides,Rhizome,5.886142,102.741075,AFI1751,MUX8046
+EA_Per_Rh_07,Perhentian,East Malaysia,Enhalus acoroides,Rhizome,5.886142,102.741075,AFI1752,MUX8046
+EA_Per_Rh_08,Perhentian,East Malaysia,Enhalus acoroides,Rhizome,5.886142,102.741075,AFI1753,MUX8046
+EA_Per_Rh_09,Perhentian,East Malaysia,Enhalus acoroides,Rhizome,5.886142,102.741075,AFI1754,MUX8046
+EA_Per_Rh_10,Perhentian,East Malaysia,Enhalus acoroides,Rhizome,5.886142,102.741075,AFI1755,MUX8046
+EA_Per_Ro_01,Perhentian,East Malaysia,Enhalus acoroides,Root,5.886142,102.741075,AFI1756,MUX8046
+EA_Per_Ro_02,Perhentian,East Malaysia,Enhalus acoroides,Root,5.886142,102.741075,AFI1757,MUX8046
+EA_Per_Ro_03,Perhentian,East Malaysia,Enhalus acoroides,Root,5.886142,102.741075,AFI1758,MUX8046
+EA_Per_Ro_04,Perhentian,East Malaysia,Enhalus acoroides,Root,5.886142,102.741075,AFI1759,MUX8046
+EA_Per_Ro_05,Perhentian,East Malaysia,Enhalus acoroides,Root,5.886142,102.741075,AFI1760,MUX8046
+EA_Per_Ro_06,Perhentian,East Malaysia,Enhalus acoroides,Root,5.886142,102.741075,AFI1761,MUX8046
+EA_Per_Ro_07,Perhentian,East Malaysia,Enhalus acoroides,Root,5.886142,102.741075,AFI1762,MUX8046
+EA_Per_Ro_08,Perhentian,East Malaysia,Enhalus acoroides,Root,5.886142,102.741075,AFI1763,MUX8046
+EA_Per_Ro_09,Perhentian,East Malaysia,Enhalus acoroides,Root,5.886142,102.741075,AFI1764,MUX8046
+EA_Per_Ro_10,Perhentian,East Malaysia,Enhalus acoroides,Root,5.886142,102.741075,AFI1765,MUX8046
+EA_Per_Soil_01,Perhentian,East Malaysia,Enhalus acoroides,Soil,5.886142,102.741075,AFI1766,MUX8046
+EA_Per_Soil_02,Perhentian,East Malaysia,Enhalus acoroides,Soil,5.886142,102.741075,AFI1767,MUX8046
+EA_Per_Soil_03,Perhentian,East Malaysia,Enhalus acoroides,Soil,5.886142,102.741075,AFI1768,MUX8046
+EA_Per_Soil_04,Perhentian,East Malaysia,Enhalus acoroides,Soil,5.886142,102.741075,AFI1769,MUX8046
+EA_Per_Soil_05,Perhentian,East Malaysia,Enhalus acoroides,Soil,5.886142,102.741075,AFI1770,MUX8046
+EA_Per_Soil_06,Perhentian,East Malaysia,Enhalus acoroides,Soil,5.886142,102.741075,AFI1771,MUX8046
+EA_Per_Soil_07,Perhentian,East Malaysia,Enhalus acoroides,Soil,5.886142,102.741075,AFI1772,MUX8046
+EA_Per_Soil_08,Perhentian,East Malaysia,Enhalus acoroides,Soil,5.886142,102.741075,AFI1773,MUX8046
+EA_Per_Soil_09,Perhentian,East Malaysia,Enhalus acoroides,Soil,5.886142,102.741075,AFI1774,MUX8046
+EA_Per_Soil_10,Perhentian,East Malaysia,Enhalus acoroides,Soil,5.886142,102.741075,AFI1775,MUX8046
+Pa_KU_01,Singapore Coral ITS1_27F,Singapore,P acuta,Coral,NA,NA,AFI1776,MUX8046
+Pa_KU_02,Singapore Coral ITS1_27F,Singapore,P acuta,Coral,NA,NA,AFI1777,MUX8046
+Pa_KU_03,Singapore Coral ITS1_27F,Singapore,P acuta,Coral,NA,NA,AFI1778,MUX8046
+Pa_KU_04,Singapore Coral ITS1_27F,Singapore,P acuta,Coral,NA,NA,AFI1779,MUX8046
+Pa_KU_05,Singapore Coral ITS1_27F,Singapore,P acuta,Coral,NA,NA,AFI1780,MUX8046
+Pa_KU_06,Singapore Coral ITS1_27F,Singapore,P acuta,Coral,NA,NA,AFI1781,MUX8046
+Pa_KU_07,Singapore Coral ITS1_27F,Singapore,P acuta,Coral,NA,NA,AFI1782,MUX8046
+Pa_KU_08,Singapore Coral ITS1_27F,Singapore,P acuta,Coral,NA,NA,AFI1783,MUX8046
+SS_Po_01A,Singapore Coral ITS1_27F,Singapore,P lutea,Coral,NA,NA,AFI1784,MUX8046
+SS_Po_02A,Singapore Coral ITS1_27F,Singapore,P lutea,Coral,NA,NA,AFI1785,MUX8046
+SS_Po_03A,Singapore Coral ITS1_27F,Singapore,P lutea,Coral,NA,NA,AFI1786,MUX8046
+SS_Po_04A,Singapore Coral ITS1_27F,Singapore,P lutea,Coral,NA,NA,AFI1787,MUX8046
+SS_Po_05A,Singapore Coral ITS1_27F,Singapore,P lutea,Coral,NA,NA,AFI1788,MUX8046
+SS_Po_06A,Singapore Coral ITS1_27F,Singapore,P lutea,Coral,NA,NA,AFI1789,MUX8046
+SS_Po_07A,Singapore Coral ITS1_27F,Singapore,P lutea,Coral,NA,NA,AFI1790,MUX8046
+SS_Po_08A,Singapore Coral ITS1_27F,Singapore,P lutea,Coral,NA,NA,AFI1791,MUX8046
