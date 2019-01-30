@@ -85,7 +85,7 @@ plot_bar2(enhalus_m, fill = "Phylum", x= "Location") + facet_grid(~Source)
 ggsave("./Output/enhalus_phylum_barplot.png", dpi = 300, width = 10, height = 9)
 
 # class relative abundance
-plot_bar2(enhalus_m, fill = "Phylum", x= "Location") + facet_grid(~Source)
+plot_bar2(enhalus_m, fill = "Class", x= "Location") + facet_grid(~Source)
 ggsave("./Output/enhalus_class_barplot.png", dpi = 300, width = 12, height = 9)
 
 
