@@ -1,0 +1,12 @@
+[1] "Enhalus"
+Monte-Carlo test
+Call: mantelnoneuclid(m1 = m1, m2 = m2, nrepet = nrepet)
+
+Observation: 0.1628597 
+
+Based on 999 replicates
+Simulated p-value: 0.001 
+Alternative hypothesis: greater 
+
+      Std.Obs   Expectation      Variance 
+ 8.4356596391 -0.0006696519  0.0003757970 

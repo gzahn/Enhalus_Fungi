@@ -37,16 +37,16 @@ dimnames(enhalus@otu_table@.Data)[[2]] <- paste0("ESV_",1:ESVcount)
 
 # Clean up table ####
 # Remove non-fungi
-enhalus <- subset_taxa(ps, Kingdom == "k__Fungi")
+enhalus <- subset_taxa(enhalus, Kingdom == "k__Fungi")
 
 # remove PNA-test
-enhalus <- subset_samples(ps, Source != "Coral")
+enhalus <- subset_samples(enhalus, Source != "Coral")
 
 # remove empty and low-count ESVs
-enhalus <- prune_taxa(taxa_sums(ps) >= 100, ps) # remove taxa with fewer than 100 occurences 
+enhalus <- prune_taxa(taxa_sums(enhalus) >= 100, enhalus) # remove taxa with fewer than 100 occurences 
 
 # remove newly-emptied samples
-enhalus <- prune_samples(sample_sums(ps) != 0, ps)
+enhalus <- prune_samples(sample_sums(enhalus) != 0, enhalus)
 
 
 # save levels of sam_data
@@ -108,31 +108,41 @@ print("Enhalus")
 print(mantel.test.enhalus)
 sink(NULL)
 
+# Weighted Metric multi-dimensional scaling ####
+wcmd = (wcmdscale(vegdist(otu_table(enhalus)), 2, add = TRUE,eig = TRUE))
+enhalus_wcmd = as.data.frame(scores(wcmd))
 
+# Goodness of Fit for WCMD
+sink("./Output/WCMD_Goodness-of-fit.txt")
+print(noquote(" Goodness-of-fit statistic"))
+print(noquote(""))
+wcmd$GOF[1]
+sink(NULL)
 
-# Metric multi-dimensional scaling ####
-enhalus_wcmd = as.data.frame(wcmdscale(vegdist(otu_table(enhalus)), 2, add = TRUE))
-ggplot(enhalus_wcmd, aes(x=V1,y=V2,color=enhalus@sam_data$Source,shape=enhalus@sam_data$Country)) + 
+# Plotting
+ggplot(enhalus_wcmd, aes(x=Dim1,y=Dim2,color=enhalus@sam_data$Source,shape=enhalus@sam_data$Country)) + 
   geom_point(size=3) + theme_bw() +
-  labs(color="Source",shape="Country")
+  labs(color="Source",shape="Country") +
+  theme(legend.text = element_text(size=14), legend.title = element_text(size=16,face = "bold"))
 ggsave("./Output/WCMD_enhalus_source-country.png", dpi = 300, height = 10, width = 12)
 
 # Country is color and Source is shape
-ggplot(enhalus_wcmd, aes(x=V1,y=V2,color=enhalus@sam_data$Country,shape=enhalus@sam_data$Source)) + 
+ggplot(enhalus_wcmd, aes(x=Dim1,y=Dim2,color=enhalus@sam_data$Country,shape=enhalus@sam_data$Source)) + 
   geom_point(size=3) + theme_bw() +
-  labs(color="Region",shape="Structure")
+  labs(color="Region",shape="Structure") +
+  theme(legend.text = element_text(size=14), legend.title = element_text(size=16,face = "bold"))
 ggsave("./Output/WCMD_enhalus_source-country_2.png", dpi = 300, height = 10, width = 12)
 
 # Sample Location (Site) is color
-ggplot(enhalus_wcmd, aes(x=V1,y=V2,color=enhalus@sam_data$Location,shape=enhalus@sam_data$Source)) + 
+ggplot(enhalus_wcmd, aes(x=Dim1,y=Dim2,color=enhalus@sam_data$Location,shape=enhalus@sam_data$Source)) + 
   geom_point(size=3) + theme_bw() +
-  labs(color="Site",shape="Structure")
+  labs(color="Site",shape="Structure") +
+  theme(legend.text = element_text(size=14), legend.title = element_text(size=16,face = "bold"))
 ggsave("./Output/WCMD_enhalus_site-structure.png", dpi=300, height = 10, width = 12)
 
 # permANOVA ####
-
 sink("./Output/PermANOVA_Tables.txt")
-print("Halophila")
-adonis(otu_table(halophila) ~ halophila@sam_data$Location * halophila@sam_data$Source)
+print("Enhalus PermANOVA Results Table")
+adonis(otu_table(enhalus) ~ enhalus@sam_data$Location * enhalus@sam_data$Source)
 sink(NULL)
 
