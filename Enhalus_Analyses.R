@@ -72,9 +72,9 @@ enhalus_m <- prune_samples(sample_sums(enhalus_m) != 0, enhalus_m)
 # convert to relabund
 enhalus_m = transformSampleCounts(enhalus_m, function(OTU) OTU/sum(OTU))
 
-
-# heatmap ####
-heatmap(as.matrix(as.data.frame(otu_table(enhalus_m))), col = gray.colors(100))
+# Edit taxon names
+enhalus_m@tax_table@.Data[,"Phylum"] <- as.character(gsub("p__","",enhalus_m@tax_table@.Data[,"Phylum"]))
+enhalus_m@tax_table@.Data[,"Class"] <- as.character(gsub("c__","",enhalus_m@tax_table@.Data[,"Class"]))
 
 
 # Barplots ####
