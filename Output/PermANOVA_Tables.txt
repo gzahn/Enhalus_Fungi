@@ -1,7 +1,7 @@
 [1] "Enhalus PermANOVA Results Table"
 
 Call:
-adonis(formula = otu_table(enhalus) ~ enhalus@sam_data$Location *      enhalus@sam_data$Source) 
+adonis(formula = (decostand(otu_table(enhalus), method = "total",      MARGIN = 1) ~ enhalus@sam_data$Location * enhalus@sam_data$Source)) 
 
 Permutation: free
 Number of permutations: 999
