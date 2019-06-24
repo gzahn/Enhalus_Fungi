@@ -8,11 +8,11 @@ Number of permutations: 999
 
 Terms added sequentially (first to last)
 
-                                 Df SumsOfSqs MeanSqs F.Model      R2 Pr(>F)    
-Location                         5    14.016 2.80320  7.8138 0.12597  0.001 ***
-Source                           3     4.396 1.46529  4.0844 0.03951  0.001 ***
-Location:Source  		15    16.079 1.07192  2.9879 0.14451  0.001 ***
-Residuals                      214    76.773 0.35875         0.69001           
-Total                          237   111.263                 1.00000           
+                                                   Df SumsOfSqs MeanSqs F.Model      R2 Pr(>F)    
+Location                                            5    14.016 2.80320  7.8138 0.12597  0.001 ***
+Source                                              3     4.396 1.46529  4.0844 0.03951  0.001 ***
+Location:Source                                    15    16.079 1.07192  2.9879 0.14451  0.001 ***
+Residuals                                         214    76.773 0.35875         0.69001           
+Total                                             237   111.263                 1.00000           
 ---
 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1

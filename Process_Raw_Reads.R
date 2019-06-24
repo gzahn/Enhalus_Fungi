@@ -152,6 +152,16 @@ seqtab.nochim <- readRDS(file = "./Output/MUX8046_clean_dada2_seqtable.RDS")
 
 taxa <- assignTaxonomy(seqtab.nochim, "./Taxonomy/UNITE_anthozoa_enhalus_halophila.fasta", multithread=20)
 
+# Track Reads through pipeline ####
+getN <- function(x) sum(getUniques(x))
+track <- cbind(out, sapply(dadaFs, getN), rowSums(seqtab.nochim))
+colnames(track) <- c("input", "filtered", "nonchim")
+rownames(track) <- sample.names
+track = as.data.frame(track)
+track$filter.loss = (track[,1]-track[,2])/track[,1]
+write.csv(track, file = "./Output/read_counts_at_each_step.csv", row.names = TRUE)
+
+
 # Save intermediate files
 write.csv(as.data.frame(seqtab.nochim), file = "./Output/MUX8046_SeqTable_no-chimera_no-contams_w_Taxonomy.csv", row.names = TRUE, quote = FALSE)
 saveRDS(seqtab.nochim, file = "./Output/MUX8046_clean_dada2_seqtable_w_taxonomy.RDS")

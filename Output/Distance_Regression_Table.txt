@@ -1,0 +1,15 @@
+[1] "Ecodist package MRM() function; 9999 permutations"
+[1] "comm.dist ~ spatial.dist"
+$coef
+             comm.dist       pval
+Int          0.9458196 0.97579758
+spatial.dist 1.6785979 0.00010001
+
+$r.squared
+        R2       pval 
+0.02921602 0.00010001 
+
+$F.test
+          F      F.pval 
+8.48717e+02 1.00010e-04 
+
