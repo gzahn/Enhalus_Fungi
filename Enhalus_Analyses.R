@@ -73,7 +73,7 @@ ggsave("./Output/Filtered_Read_Count_Boxplot.png",dpi=600)
 
 
 # rarefaction curve ####
-#rarecurve(otu_table(enhalus),step = 10,label = FALSE)
+rarecurve(otu_table(enhalus),step = 10,label = FALSE)
 
 # save levels of sam_data
 source2 = levels(enhalus@sam_data$Source)
@@ -220,7 +220,12 @@ ggbiplot(pc) + lims(x=c(0,1),y=c(0,1))
 # NMDS on soil samples by themselves
 soil = subset_samples(enhalus, Source == "Sediment")
 soil.nmds = ordinate(soil,method = "NMDS")
+
+png("./Output/soil_nmds_stressplot.png")
 stressplot(soil.nmds)
+dev.off()
+
+soil.nmds$stress
 
 plot_ordination(soil, soil.nmds, color="Location") + stat_ellipse() + theme_bw()
 ggsave("./Output/sediment_nmds.png",dpi=600)
