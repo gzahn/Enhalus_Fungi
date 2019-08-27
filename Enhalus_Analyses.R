@@ -69,7 +69,7 @@ write.csv(x = sample_data(enhalus),file = "~/Desktop/enhalus_metadata2.csv")
 seq_stats = read.csv("./Output/sample_seq_stats.csv")
 ggplot(seq_stats, aes(x=Source,y=nonchim,fill = Source)) + geom_boxplot() + geom_point() + facet_wrap(~Location) + theme_bw() +
   labs(y="Filtered Read Count")
-ggsave("./Output/Filtered_Read_Count_Boxplot.png",dpi=300)
+ggsave("./Output/Filtered_Read_Count_Boxplot.png",dpi=600)
 
 
 # rarefaction curve ####
@@ -113,7 +113,7 @@ ggplot(div, aes(x=Site, y=Shannon, fill = Site)) +
   geom_boxplot() + theme_bw() +
   theme(axis.text.x = element_text(angle = 75, hjust = 1)) +
   labs(y="Shannon Diversity") + scale_color_manual(values = pal)
-ggsave(filename = "./Output/Shannon_Diversity_by_Site.png", dpi = 300)  
+ggsave(filename = "./Output/Shannon_Diversity_by_Site.png", dpi = 600)  
 
 # by structure
 div = data.frame(Site = enhalus_m@sam_data$Source, 
@@ -122,7 +122,7 @@ ggplot(div, aes(x=Site, y=Shannon, fill = Source)) +
   geom_boxplot() + theme_bw() +
   theme(axis.text.x = element_text(angle = 75, hjust = 1)) +
   labs(y="Shannon Diversity",x="Structure",fill="Structure") + scale_color_manual(values = pal)
-ggsave(filename = "./Output/Shannon_Diversity_by_Structure.png", dpi = 300)  
+ggsave(filename = "./Output/Shannon_Diversity_by_Structure.png", dpi = 600)  
 
 div = data.frame(Site = enhalus@sam_data$Source, 
                  Shannon = diversity(otu_table(enhalus))) 
@@ -137,11 +137,11 @@ source("./plot_bar2.R")
 
 # phylum relative abundance
 plot_bar2(enhalus_m, fill = "Phylum", x= "Location") + facet_grid(~Source)
-ggsave("./Output/enhalus_phylum_barplot.png", dpi = 300, width = 10, height = 9)
+ggsave("./Output/enhalus_phylum_barplot.png", dpi = 600, width = 10, height = 9)
 
 # class relative abundance
 plot_bar2(enhalus_m, fill = "Class", x= "Location") + facet_grid(~Source)
-ggsave("./Output/enhalus_class_barplot.png", dpi = 300, width = 12, height = 9)
+ggsave("./Output/enhalus_class_barplot.png", dpi = 600, width = 12, height = 9)
 
 
 # convert full phyloseq objects to relative abundance  ####
@@ -167,7 +167,7 @@ citation("ade4")
 ggplot(mapping = aes(x=jitter(spatial.dist, amount = 1), y=comm.dist)) +
   geom_point(alpha=.05) + stat_smooth(method = "lm") +
   labs(x="Spatial Distance",y="Community Distance") + theme_bw()
-ggsave("./Output/Enhalus_Mantel_Plot.png", dpi=300)
+ggsave("./Output/Enhalus_Mantel_Plot.png", dpi=600)
 
 sink("./Output/mantel_tests.txt")
 print("Enhalus")
@@ -192,21 +192,21 @@ ggplot(enhalus_wcmd, aes(x=Dim1,y=Dim2,color=enhalus@sam_data$Source,shape=enhal
   geom_point(size=3) + theme_bw() +
   labs(color="Source",shape="Country") +
   theme(legend.text = element_text(size=14), legend.title = element_text(size=16,face = "bold"))
-ggsave("./Output/WCMD_enhalus_source-country.png", dpi = 300, height = 10, width = 12)
+ggsave("./Output/WCMD_enhalus_source-country.png", dpi = 600, height = 10, width = 12)
 
 # Country is color and Source is shape
 ggplot(enhalus_wcmd, aes(x=Dim1,y=Dim2,color=enhalus@sam_data$Country,shape=enhalus@sam_data$Source)) + 
   geom_point(size=3) + theme_bw() +
   labs(color="Region",shape="Structure") +
   theme(legend.text = element_text(size=14), legend.title = element_text(size=16,face = "bold"))
-ggsave("./Output/WCMD_enhalus_source-country_2.png", dpi = 300, height = 10, width = 12)
+ggsave("./Output/WCMD_enhalus_source-country_2.png", dpi = 600, height = 10, width = 12)
 
 # Sample Location (Site) is color
 ggplot(enhalus_wcmd, aes(x=Dim1,y=Dim2,color=enhalus@sam_data$Location,shape=enhalus@sam_data$Source)) + 
   geom_point(size=3) + theme_bw() +
   labs(color="Site",shape="Structure") +
   theme(legend.text = element_text(size=14), legend.title = element_text(size=16,face = "bold"))
-ggsave("./Output/WCMD_enhalus_site-structure.png", dpi=300, height = 10, width = 12)
+ggsave("./Output/WCMD_enhalus_site-structure.png", dpi=600, height = 10, width = 12)
 
 pc = prcomp((decostand(otu_table(enhalus), method = "total", MARGIN = 1)), scale. = TRUE, center = TRUE)
 summary(pc)
@@ -223,7 +223,7 @@ soil.nmds = ordinate(soil,method = "NMDS")
 stressplot(soil.nmds)
 
 plot_ordination(soil, soil.nmds, color="Location") + stat_ellipse() + theme_bw()
-ggsave("./Output/sediment_nmds.png",dpi=300)
+ggsave("./Output/sediment_nmds.png",dpi=600)
 
 
 # RDA ordination
@@ -323,5 +323,5 @@ dev.off()
 # Network Plot ####
 ig=igraph::make_network(pspa, max.dist = .9)
 plot_network(ig, physeq = enhalus, color = "Location", shape = "Source",label = NULL)
-ggsave("./Output/Network_Jaccard.png", dpi=300, height = 12, width = 18)
+ggsave("./Output/Network_Jaccard.png", dpi=600, height = 12, width = 18)
 
